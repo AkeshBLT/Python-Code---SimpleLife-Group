@@ -1,4 +1,3 @@
-
 def find_highest_and_lowest(data):
     """
     Find the highest and lowest student averages.
